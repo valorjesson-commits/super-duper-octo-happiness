@@ -77,7 +77,7 @@ jobs:
         uses: tree-sitter/setup-action/cli@v2
 
       - name: Build parser
-        run: tree-sitter build
+        run: tree-sitter build -o "$(basename "$GITHUB_REPOSITORY").so"
 
       - name: Set up ts_query_ls
         run: curl -fL https://github.com/ribru17/ts_query_ls/releases/latest/download/ts_query_ls-x86_64-unknown-linux-gnu.tar.gz | tar -xz
