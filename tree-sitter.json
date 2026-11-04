@@ -1,0 +1,28 @@
+{
+  "$schema": "https://tree-sitter.github.io/tree-sitter/assets/schemas/config.schema.json",
+  "grammars": [
+    {
+      "name": "super_duper_octo_happiness",
+      "scope": "source.super_duper_octo_happiness",
+      "file-types": [
+        "super_duper_octo_happiness"
+      ],
+      "injection-regex": "^super_duper_octo_happiness$",
+      "highlights": "queries/highlights.scm"
+    }
+  ],
+  "metadata": {
+    "links": {
+      "repository": "https://github.com/valorjesson-commits/super-duper-octo-happiness"
+    },
+    "namespace": "io.github.valorjesson-commits",
+    "version": "0.1.0",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Valor",
+        "email": "valorjesson@icloud.com"
+      }
+    ]
+  }
+}

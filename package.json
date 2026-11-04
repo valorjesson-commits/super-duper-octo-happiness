@@ -1,0 +1,21 @@
+{
+  "name": "tree-sitter-super-duper-octo-happiness",
+  "version": "0.1.0",
+  "description": "A Tree-sitter parser for tree-sitter-super-duper-octo-happiness files.",
+  "license": "MIT",
+  "author": {
+    "name": "Valor",
+    "email": "valorjesson@icloud.com"
+  },
+  "repository": "https://github.com/valorjesson-commits/super-duper-octo-happiness",
+  "files": [
+    "grammar.js",
+    "tree-sitter.json",
+    "src",
+    "queries"
+  ],
+  "keywords": [
+    "tree-sitter",
+    "parser"
+  ]
+}

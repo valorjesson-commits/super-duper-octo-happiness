@@ -1,24 +1,24 @@
-# tree-sitter-PARSER_NAME
+# super-duper-octo-happiness
 
-[![CI][ci]](https://github.com/tree-sitter-grammars/tree-sitter-PARSER_NAME/actions/workflows/ci.yml)
+[![CI][ci]](https://github.com/valorjesson-commits/super-duper-octo-happiness/actions/workflows/ci.yml)
 [![discord][discord]](https://discord.gg/w7nTvsVJhm)
 [![matrix][matrix]](https://matrix.to/#/#tree-sitter-chat:matrix.org)
 <!-- NOTE: uncomment these if you're publishing packages: -->
-<!-- [![npm][npm]](https://www.npmjs.com/package/tree-sitter-PARSER_NAME) -->
-<!-- [![crates][crates]](https://crates.io/crates/tree-sitter-PARSER_NAME) -->
-<!-- [![pypi][pypi]](https://pypi.org/project/tree-sitter-PARSER_NAME/) -->
-<!-- [![maven][maven]](https://central.sonatype.com/artifact/io.github.tree-sitter-grammars/tree-sitter-PARSER_NAME) -->
+<!-- [![npm][npm]](https://www.npmjs.com/package/super-duper-octo-happiness) -->
+<!-- [![crates][crates]](https://crates.io/crates/super-duper-octo-happiness) -->
+<!-- [![pypi][pypi]](https://pypi.org/project/super-duper-octo-happiness/) -->
+<!-- [![maven][maven]](https://central.sonatype.com/artifact/io.github.valorjesson-commits/super-duper-octo-happiness) -->
 
-A Tree-sitter parser for PARSER_NAME files.
+A Tree-sitter parser for super-duper-octo-happiness files.
 
 ## References
 
 <!-- NOTE: add the grammar's references here -->
 
-[ci]: https://img.shields.io/github/actions/workflow/status/tree-sitter-grammars/tree-sitter-PARSER_NAME/ci.yml?logo=github&label=CI
+[ci]: https://img.shields.io/github/actions/workflow/status/valorjesson-commits/super-duper-octo-happiness/ci.yml?logo=github&label=CI
 [discord]: https://img.shields.io/discord/1063097320771698699?logo=discord&label=discord
 [matrix]: https://img.shields.io/matrix/tree-sitter-chat%3Amatrix.org?logo=matrix&label=matrix
-[npm]: https://img.shields.io/npm/v/tree-sitter-PARSER_NAME?logo=npm
-[crates]: https://img.shields.io/crates/v/tree-sitter-PARSER_NAME?logo=rust
-[pypi]: https://img.shields.io/pypi/v/tree-sitter-PARSER_NAME?logo=pypi&logoColor=ffd242
-[maven]: https://img.shields.io/maven-central/v/io.github.tree-sitter-grammars/tree-sitter-PARSER_NAME?logo=sonatype
+[npm]: https://img.shields.io/npm/v/super-duper-octo-happiness?logo=npm
+[crates]: https://img.shields.io/crates/v/super-duper-octo-happiness?logo=rust
+[pypi]: https://img.shields.io/pypi/v/super-duper-octo-happiness?logo=pypi&logoColor=ffd242
+[maven]: https://img.shields.io/maven-central/v/io.github.valorjesson-commits/super-duper-octo-happiness?logo=sonatype

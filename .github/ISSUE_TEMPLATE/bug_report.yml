@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Before** reporting an issue, make sure to search [existing issues](https://github.com/tree-sitter-grammars/REPO_NAME/issues).
+        **Before** reporting an issue, make sure to search [existing issues](https://github.com/valorjesson-commits/REPO_NAME/issues).
         If your issue is related to a bug in your editor-experience because your editor *leverages* tree-sitter and this parser, then it is likely your issue does *NOT* belong here and belongs in the relevant editor's repository.
   - type: checkboxes
     attributes:
@@ -51,6 +51,6 @@ body:
       description: Minimal code to reproduce this issue. Ideally this should be reproducible with the C library or the tree-sitter CLI; do not suggest an editor or external tool.
       placeholder: |
         Example code that causes the issue
-      render: PARSER_NAME
+      render: super-duper-octo-happiness
     validations:
       required: false
